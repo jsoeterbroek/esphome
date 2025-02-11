@@ -36,6 +36,7 @@ wifi:
     ssid: "Test Fallback Hotspot"
     password: "enNvCrVeN3li"
 
+
 captive_portal:
 
 # http
